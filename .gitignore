@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/DayOnePointOne/.vs
+/DayOnePointOne/bin/Debug/net8.0
+/DayOnePointOne/obj
+/DayOnePointTwo/.vs/DayOnePointTwo
+/DayOnePointTwo/bin/Debug/net8.0
+/DayOnePointTwo/obj
+/QuickKart/.vs
+/QuickKart/QuickKartBL/bin/Debug/net8.0
+/QuickKart/QuickKartBL/obj
+/QuickKart/QuickKartTestApp/bin/Debug/net8.0
+/QuickKart/QuickKartTestApp/obj
