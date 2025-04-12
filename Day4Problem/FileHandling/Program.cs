@@ -29,7 +29,7 @@ public class Product
 
 public class Program
 {
-    private static string fileName = "Products.txt";
+    private static string fileName = "C:\\AdvancedCSharp\\AdvancedCSharp\\Day4Problem\\Products.txt";
 
     // Method to add a new product
     public static void AddProduct()
